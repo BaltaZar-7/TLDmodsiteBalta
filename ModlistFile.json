@@ -1,0 +1,51 @@
+{
+	"version": "2",
+	"author": "BaltaZar",
+	"authorURL": "https://github.com/BaltaZar-7",
+	"supportURL": "",
+	"mods": [
+		{
+			"type": "mod",
+			"version": "1.2.0",
+			"name": "ToolsFullConditionMod",
+			"displayName": "Tools Full Condition Mod",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-01-21",
+			"updated": "2026-01-21",
+			"downloadURL": "https://github.com/BaltaZar-7/ToolsFullConditionMod/releases/download/1.2.0/ToolsFullConditionMod.dll",
+			"modURL": "https://github.com/BaltaZar-7/ToolsFullConditionMod",
+			"description": "Mod that sets condition to 100% for looted some items, where condition doesn't have a function anyway. Affected Items: Matches (both types), Lamp Fuel, Jerry Can, Magnifying Lens, Antiseptic, Insulated Flasks, (Ammo)",
+			"tags": "Tools,Full,Condition",
+			"categories": [
+				"Quality of Life",
+				"Gear Items"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/ToolsFullConditionMod/305620_16asd.jpg",
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/ToolsFullConditionMod/305620_15asd.jpg"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "When looting containers, the pickup window shows less than 100 condition, but the items will be perfect in your inventory.",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "v2.51",
+				"mlversion": "v0.7.2-ci.2388"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		}
+	]
+}
