@@ -38,8 +38,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "v2.51",
-				"mlversion": "v0.7.2-ci.2388"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2-ci.2388"
 			},
 			"updater": {
 				"enable": true,
@@ -48,4 +48,5 @@
 			"aliases": []
 		}
 	]
+
 }
