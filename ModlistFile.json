@@ -33,7 +33,7 @@
 				"working": true,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "When looting containers, the pickup window shows less than 100 condition, but the items will be perfect in your inventory.",
+				"notes": "When looting containers, the pickup window shows less than 100 condition, but the items will be perfect in your inventory. Ammo is included because Reduced Loot mod by Fuar decreases ammo, and I found that a little annoying.",
 				"issues": ""
 			},
 			"testedon": {
@@ -42,11 +42,283 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": []
+				"downloads": [
+					"https://github.com/BaltaZar-7/ToolsFullConditionMod/releases/download/1.2.0/ToolsFullConditionMod.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.2.0",
+			"name": "HotkeyMod",
+			"displayName": "Hotkey Mod",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-01-22",
+			"updated": "2026-01-22",
+			"downloadURL": "https://github.com/BaltaZar-7/HotkeyMod/releases/download/1.2.0/HotkeyMod.dll",
+			"modURL": "https://github.com/BaltaZar-7/HotkeyMod",
+			"description": "Simple hotkey mod. When equiping firearms, guns with the most bullets in the magazine will be equiped (If in the json list). When equiping torches, the one item with the LEAST codition comes up. The basic rule after the above rules: first item in the list is going to be equiped. Clothes and accessories are supported too, and there is a toggle function implemented, so first tap equips specified clothing item, second tap switches back the original item if there was any. Check the Repo for more details!",
+			"tags": "hotkey,key,customize",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/HotkeyMod/Screenshot%202026-01-22%20221343.jpg"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "Check the Repo for more details!",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2-ci.2388"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/BaltaZar-7/HotkeyMod/releases/download/1.2.0/HotkeyMod.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.2.0",
+			"name": "AlternativeParasitesAtMaxLvl",
+			"displayName": "Alternative Parasites At Max Lvl",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-01-22",
+			"updated": "2026-01-22",
+			"downloadURL": "https://github.com/BaltaZar-7/AlternativeParasitesAtMaxLvl/releases/download/1.2.0/AlternativeParasitesAtMaxLvl.dll",
+			"modURL": "https://github.com/BaltaZar-7/AlternativeParasitesAtMaxLvl",
+			"description": "Reintroduces Intestinal Parasites at Cooking level 5, with alternative, less harsh impact. Only impacts characters with cooking level 5.",
+			"tags": "parasites,affliction,intestinal,risk,chance",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/AlternativeParasitesAtMaxLvl/ParasitesThumbnail1.jpg",
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/AlternativeParasitesAtMaxLvl/305620_19.jpg",
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/AlternativeParasitesAtMaxLvl/305620_20.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "Incremental mode and Fixed mode. Optional reminder to take dose when the real affliction kicks in. Check the Repo for more details!",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2-ci.2388"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/BaltaZar-7/AlternativeParasitesAtMaxLvl/releases/download/1.2.0/AlternativeParasitesAtMaxLvl.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.1.0",
+			"name": "RetrieveBulletsMod",
+			"displayName": "Retrieve Bullets Mod",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-01-22",
+			"updated": "2026-01-22",
+			"downloadURL": "https://github.com/BaltaZar-7/RetrieveBulletsMod/releases/download/1.1.0/RetrieveBulletsMod.zip",
+			"modURL": "https://github.com/BaltaZar-7/RetrieveBulletsMod",
+			"description": "This mod makes bullets retrievable from animals you killed with firearms.\nYou can harvest new items, called \"Damaged bullets\" from the carcasses and then reforge them at the ammunition workshop.",
+			"tags": "retrieve,bullet,damaged,gun,ammo,harvest",
+			"categories": [
+				"Gameplay",
+				"Gear Items",
+				"Overhaul"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/RetrieveBulletsMod/305620_9.jpg",
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/RetrieveBulletsMod/305620_10b.jpg",
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/RetrieveBulletsMod/305620_12.jpg",
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/RetrieveBulletsMod/305620_11.jpg"
+			],
+			"dependencies": [
+				"ModComponent",
+				"ModData"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "Check the Repo for more details!",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2-ci.2388"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/BaltaZar-7/RetrieveBulletsMod/releases/download/1.1.0/RetrieveBulletsMod.zip"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.3.0",
+			"name": "PemmicanSlowerDecay",
+			"displayName": "Pemmican Slower Decay",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-01-22",
+			"updated": "2026-01-22",
+			"downloadURL": "https://github.com/BaltaZar-7/PemmicanSlowerDecay/releases/download/1.3.0/PemmicanSlowerDecay.dll",
+			"modURL": "https://github.com/BaltaZar-7/PemmicanSlowerDecay",
+			"description": "Simple mod modifying the cooked Pemmican bar, lowering its decay rate to match cured meat's.",
+			"tags": "food,pemmican,cured,meat,lasting,slower,decay,condition",
+			"categories": [
+				"Gear Items",
+				"Food"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/PemmicanSlowerDecay/PemmicanThumbnail1.jpg",
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/PemmicanSlowerDecay/osszehasonlitas.jpg"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "Works with GearInfo. Added a patch for Gear Decay Modifier mod by Romain to exclude Pemmican bars from that mod, because Pemmican is different than a rabbit pie!",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2-ci.2388"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/BaltaZar-7/PemmicanSlowerDecay/releases/download/1.3.0/PemmicanSlowerDecay.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "ScaledFishMod",
+			"displayName": "Scaled Fish Mod",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-01-22",
+			"updated": "2026-01-22",
+			"downloadURL": "https://github.com/BaltaZar-7/ScaledFishMod/releases/download/1.0.0/ScaledFishMod.dll",
+			"modURL": "https://github.com/BaltaZar-7/ScaledFishMod",
+			"description": "Have you ever wondered why fishes are the same size per type visually? Well, no more! Scaled Fish Mod makes fishes' model size dynamic based on their weight.",
+			"tags": "fish,scaled,weight,scale,big,size,small,fishing",
+			"categories": [
+				"Food",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/ScaledFishMod/305620_13.jpg",
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/ScaledFishMod/305620_25.jpg"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2-ci.2388"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/BaltaZar-7/ScaledFishMod/releases/download/1.0.0/ScaledFishMod.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.1.0",
+			"name": "RenewableGunpowderMod",
+			"displayName": "Renewable Gunpowder Mod",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-01-22",
+			"updated": "2026-01-22",
+			"downloadURL": "https://github.com/BaltaZar-7/RenewableGunpowderMod/releases/download/1.1.0/RenewableGunpowderMod.zip",
+			"modURL": "https://github.com/BaltaZar-7/RenewableGunpowderMod",
+			"description": "Adds gunpowder materials: Dusting Sulfur, Stump Remover and Lead to loot pools via beachcombing and container loot tables. I made this mod before I realized AmmunitionCraftingTools mod by Sm4rtBoyTom made better job at making gunpowder renewable. Never mind, someone might use it.",
+			"tags": "gunpowder,beachcombing,ammo,dusting,sulphur,lead,beach,renewable",
+			"categories": [
+				"Gameplay",
+				"Gear Items"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/RenewableGunpowderMod/305620_14.jpg"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "Check the Repo for more details!",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2-ci.2388"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/BaltaZar-7/RenewableGunpowderMod/releases/download/1.1.0/RenewableGunpowderMod.zip"
+				]
 			},
 			"aliases": []
 		}
 	]
-
 }
-
