@@ -232,13 +232,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.1.0",
 			"name": "ScaledFishMod",
 			"displayName": "Scaled Fish Mod",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-01-22",
-			"updated": "2026-01-22",
+			"updated": "2026-01-25",
 			"downloadURL": "https://github.com/BaltaZar-7/ScaledFishMod/releases/download/1.1.0/ScaledFishMod.dll",
 			"modURL": "https://github.com/BaltaZar-7/ScaledFishMod",
 			"description": "Have you ever wondered why fishes are the same size per type visually? Well, no more! Scaled Fish Mod makes fishes' model size dynamic based on their weight.",
@@ -322,4 +322,5 @@
 		}
 	]
 }
+
 
