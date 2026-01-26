@@ -7,50 +7,6 @@
 		{
 			"type": "mod",
 			"version": "1.2.0",
-			"name": "ToolsFullConditionMod",
-			"displayName": "Tools Full Condition Mod",
-			"author": "",
-			"previousAuthors": "",
-			"released": "2026-01-21",
-			"updated": "2026-01-21",
-			"downloadURL": "https://github.com/BaltaZar-7/ToolsFullConditionMod/releases/download/1.2.0/ToolsFullConditionMod.dll",
-			"modURL": "https://github.com/BaltaZar-7/ToolsFullConditionMod",
-			"description": "Mod that sets condition to 100% for looted some items, where condition doesn't have a function anyway. Affected Items: Matches (both types), Lamp Fuel, Jerry Can, Magnifying Lens, Antiseptic, Insulated Flasks, (Ammo)",
-			"tags": "Tools,Full,Condition",
-			"categories": [
-				"Quality of Life",
-				"Gear Items"
-			],
-			"gameversion": [
-				"vanilla"
-			],
-			"images": [
-				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/ToolsFullConditionMod/305620_16asd.jpg",
-				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/ToolsFullConditionMod/305620_15asd.jpg"
-			],
-			"dependencies": [],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "When looting containers, the pickup window shows less than 100 condition, but the items will be perfect in your inventory. Ammo is included because Reduced Loot mod by Fuar decreases ammo, and I found that a little annoying.",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.51",
-				"mlversion": "0.7.2-ci.2388"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/BaltaZar-7/ToolsFullConditionMod/releases/download/1.2.0/ToolsFullConditionMod.dll"
-				]
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "1.2.0",
 			"name": "HotkeyMod",
 			"displayName": "Hotkey Mod",
 			"author": "",
@@ -319,8 +275,49 @@
 				]
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "GearPerfectConditionMod",
+			"displayName": "Gear Perfect Condition Mod",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-01-26",
+			"updated": "2026-01-26",
+			"downloadURL": "https://github.com/BaltaZar-7/GearPerfectConditionMod/releases/download/1.0.0/GearPerfectConditionMod.dll",
+			"modURL": "https://github.com/BaltaZar-7/GearPerfectConditionMod",
+			"description": "Sets condition to 100 for specified looted Gear items. Customizable Json. Default items: Matches, Lamp fuel, Mag lens, Antiseptic, Insulated flasks",
+			"tags": "tools,full,condition,gear,items,perfect,item",
+			"categories": [
+				"Gear Items"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/GearPerfectConditionMod/305620_16asd.jpg",
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/GearPerfectConditionMod/305620_15asd.jpg"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "Check the Repo for more details!",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2-ci.2388"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/BaltaZar-7/GearPerfectConditionMod/releases/download/1.0.0/GearPerfectConditionMod.dll"
+				]
+			},
+			"aliases": []
 		}
 	]
 }
-
-
