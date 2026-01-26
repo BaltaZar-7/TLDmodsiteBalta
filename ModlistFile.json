@@ -304,7 +304,7 @@
 				"working": true,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "Check the Repo for more details!",
+				"notes": "This mod is the successor of my former mod, ToolsFullConditionMod",
 				"issues": ""
 			},
 			"testedon": {
@@ -321,3 +321,4 @@
 		}
 	]
 }
+
