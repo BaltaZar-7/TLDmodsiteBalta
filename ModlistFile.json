@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.2.1",
 			"name": "HotkeyMod",
 			"displayName": "Hotkey Mod",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-01-22",
-			"updated": "2026-01-22",
-			"downloadURL": "https://github.com/BaltaZar-7/HotkeyMod/releases/download/1.2.0/HotkeyMod.dll",
+			"updated": "2026-02-01",
+			"downloadURL": "https://github.com/BaltaZar-7/HotkeyMod/releases/download/1.2.1/HotkeyMod.dll",
 			"modURL": "https://github.com/BaltaZar-7/HotkeyMod",
 			"description": "Simple hotkey mod. When equiping firearms, guns with the most bullets in the magazine will be equiped (If in the json list). When equiping torches, the one item with the LEAST codition comes up. The basic rule after the above rules: first item in the list is going to be equiped. Clothes and accessories are supported too, and there is a toggle function implemented, so first tap equips specified clothing item, second tap switches back the original item if there was any. Check the Repo for more details!",
 			"tags": "hotkey,key,customize",
@@ -30,7 +30,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "Fixed an issue with ruined torches getting selected first.",
 				"notes": "Check the Repo for more details!",
 				"issues": ""
 			},
@@ -41,7 +41,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/HotkeyMod/releases/download/1.2.0/HotkeyMod.dll"
+					"https://github.com/BaltaZar-7/HotkeyMod/releases/download/1.2.1/HotkeyMod.dll"
 				]
 			},
 			"aliases": []
@@ -321,4 +321,3 @@
 		}
 	]
 }
-
