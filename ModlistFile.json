@@ -318,6 +318,48 @@
 				]
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "AnimalRespawnTimeMod",
+			"displayName": "Animal Respawn Time Mod",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-02-08",
+			"updated": "2026-02-08",
+			"downloadURL": "https://github.com/BaltaZar-7/AnimalRespawnTimeMod/releases/download/1.0.0/AnimalRespawnTimeMod.dll",
+			"modURL": "https://github.com/BaltaZar-7/AnimalRespawnTimeMod",
+			"description": "This mod makes animals' respawn time in hours adjustable in a Json file.",
+			"tags": "animal,respawn,time,custom",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/AnimalRespawnTimeMod/305620_26.jpg"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2-ci.2388"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/BaltaZar-7/AnimalRespawnTimeMod/releases/download/1.0.0/AnimalRespawnTimeMod.dll"
+				]
+			},
+			"aliases": []
 		}
 	]
 }
