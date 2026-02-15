@@ -321,14 +321,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.1.0",
 			"name": "AnimalRespawnTimeMod",
 			"displayName": "Animal Respawn Time Mod",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-02-08",
-			"updated": "2026-02-08",
-			"downloadURL": "https://github.com/BaltaZar-7/AnimalRespawnTimeMod/releases/download/1.0.0/AnimalRespawnTimeMod.dll",
+			"updated": "2026-02-15",
+			"downloadURL": "https://github.com/BaltaZar-7/AnimalRespawnTimeMod/releases/download/1.1.0/AnimalRespawnTimeMod.dll",
 			"modURL": "https://github.com/BaltaZar-7/AnimalRespawnTimeMod",
 			"description": "This mod makes animals' respawn time in hours adjustable in a Json file.",
 			"tags": "animal,respawn,time,custom",
@@ -341,11 +341,13 @@
 			"images": [
 				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/AnimalRespawnTimeMod/305620_26.jpg"
 			],
-			"dependencies": [],
+			"dependencies": [
+				"ModSettings"
+			],
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "ModSettings implementation. Old Json file can be deleted.",
 				"notes": "",
 				"issues": ""
 			},
@@ -356,7 +358,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/AnimalRespawnTimeMod/releases/download/1.0.0/AnimalRespawnTimeMod.dll"
+					"https://github.com/BaltaZar-7/AnimalRespawnTimeMod/releases/download/1.1.0/AnimalRespawnTimeMod.dll"
 				]
 			},
 			"aliases": []
