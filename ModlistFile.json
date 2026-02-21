@@ -362,6 +362,55 @@
 				]
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "CatchColdMod",
+			"displayName": "Catch Cold Mod",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-02-21",
+			"updated": "2026-02-21",
+			"downloadURL": "https://github.com/BaltaZar-7/CatchColdMod/releases/download/1.0.0/CatchColdMod.dll",
+			"modURL": "https://github.com/BaltaZar-7/CatchColdMod",
+			"description": "This mod adds a mechanic of catching a Cold affliction, developing a resistance or the cold worsens to Pneumonia.",
+			"tags": "affliction,cold,tea,freeze,catch,pneumonia",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/CatchColdMod/CatchColdMod.jpg",
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/CatchColdMod/305620_38.jpg",
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/CatchColdMod/305620_39.jpg",
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/CatchColdMod/305620_36.jpg"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModData",
+				"Affliction Component"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "Check the Repo for more details!",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2-ci.2388"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/BaltaZar-7/CatchColdMod/releases/download/1.0.0/CatchColdMod.dll"
+				]
+			},
+			"aliases": []
 		}
 	]
 }
