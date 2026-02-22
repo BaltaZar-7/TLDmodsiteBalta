@@ -365,14 +365,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.1.0",
 			"name": "CatchColdMod",
 			"displayName": "Catch Cold Mod",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-02-21",
-			"updated": "2026-02-21",
-			"downloadURL": "https://github.com/BaltaZar-7/CatchColdMod/releases/download/1.0.0/CatchColdMod.dll",
+			"updated": "2026-02-22",
+			"downloadURL": "https://github.com/BaltaZar-7/CatchColdMod/releases/download/1.1.0/CatchColdMod.dll",
 			"modURL": "https://github.com/BaltaZar-7/CatchColdMod",
 			"description": "This mod adds a mechanic of catching a Cold affliction, developing a resistance or the cold worsens to Pneumonia.",
 			"tags": "affliction,cold,tea,freeze,catch,pneumonia",
@@ -384,9 +384,8 @@
 			],
 			"images": [
 				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/CatchColdMod/CatchColdMod.jpg",
-				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/CatchColdMod/305620_38.jpg",
-				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/CatchColdMod/305620_39.jpg",
-				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/CatchColdMod/305620_36.jpg"
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/CatchColdMod/305620_42.jpg",
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/CatchColdMod/305620_43.jpg"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -396,7 +395,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "- new icons\n- when treating pneumonia, the damage will be less severe\n- overall a little less harsh pneumonia\n- fixed birch bark tea\n- added coughing when afflicted pneumonia",
 				"notes": "Check the Repo for more details!",
 				"issues": ""
 			},
@@ -407,7 +406,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/CatchColdMod/releases/download/1.0.0/CatchColdMod.dll"
+					"https://github.com/BaltaZar-7/CatchColdMod/releases/download/1.1.0/CatchColdMod.dll"
 				]
 			},
 			"aliases": []
