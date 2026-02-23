@@ -372,7 +372,7 @@
 			"previousAuthors": "",
 			"released": "2026-02-21",
 			"updated": "2026-02-22",
-			"downloadURL": "https://github.com/BaltaZar-7/CatchColdMod/releases/download/1.1.0/CatchColdMod.dll",
+			"downloadURL": "https://github.com/BaltaZar-7/CatchColdMod/releases/download/1.1.1/CatchColdMod.dll",
 			"modURL": "https://github.com/BaltaZar-7/CatchColdMod",
 			"description": "This mod adds a mechanic of catching a Cold affliction, developing a resistance or the cold worsens to Pneumonia.",
 			"tags": "affliction,cold,tea,freeze,catch,pneumonia",
@@ -395,7 +395,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "- new icons\n- when treating pneumonia, the damage will be less severe\n- overall a little less harsh pneumonia\n- fixed birch bark tea\n- added coughing when afflicted pneumonia",
+				"patchnotes": "- new icons\n- when treating pneumonia, the damage will be less severe\n- overall a little less harsh pneumonia\n- fixed birch bark tea\n- added coughing when afflicted pneumonia\n- fix for cold risk not curing when fully depleted",
 				"notes": "Check the Repo for more details!",
 				"issues": ""
 			},
@@ -406,7 +406,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/CatchColdMod/releases/download/1.1.0/CatchColdMod.dll"
+					"https://github.com/BaltaZar-7/CatchColdMod/releases/download/1.1.1/CatchColdMod.dll"
 				]
 			},
 			"aliases": []
