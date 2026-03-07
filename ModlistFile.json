@@ -317,7 +317,9 @@
 					"https://github.com/BaltaZar-7/GearPerfectConditionMod/releases/download/1.0.0/GearPerfectConditionMod.dll"
 				]
 			},
-			"aliases": []
+			"aliases": [
+				"ToolsFullConditionMod"
+			]
 		},
 		{
 			"type": "mod",
@@ -371,7 +373,7 @@
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-02-21",
-			"updated": "2026-02-22",
+			"updated": "2026-02-28",
 			"downloadURL": "https://github.com/BaltaZar-7/CatchColdMod/releases/download/1.1.2/CatchColdMod.dll",
 			"modURL": "https://github.com/BaltaZar-7/CatchColdMod",
 			"description": "This mod adds a mechanic of catching a Cold affliction, developing a resistance or the cold worsens to Pneumonia.",
@@ -410,8 +412,93 @@
 				]
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.1.0",
+			"name": "HungerRevamped",
+			"displayName": "Hunger Revamped",
+			"author": "BaltaZar, TLD modding community",
+			"previousAuthors": "BA, zeobviouslyfakeacc",
+			"released": "2018-03-31",
+			"updated": "2026-02-28",
+			"downloadURL": "https://github.com/BaltaZar-7/HungerRevamped/releases/download/2.1.0/HungerRevamped.dll",
+			"modURL": "https://github.com/BaltaZar-7/HungerRevamped",
+			"description": "Improves the hunger system by separating hunger and stored calories. Adds customization options for various cooking such as enabling cooking ruined food.",
+			"tags": "hunger,revamped,calories,stored,store,fat,increase,food",
+			"categories": [
+				"Gameplay",
+				"Overhaul"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"ModData"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Updated for current version.\nFixed Harvest Can.\nAdded a feature which gives you a recycled can when used one up in a cooking recipe.\nMade debug logging off by default.",
+				"notes": "Check the Repo for more details!",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2-ci.2388"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/BaltaZar-7/HungerRevamped/releases/download/2.1.0/HungerRevamped.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "StolenMeatMod",
+			"displayName": "Stolen Meat Mod",
+			"author": "MonsieurMeh, BaltaZar",
+			"previousAuthors": "",
+			"released": "2026-03-01",
+			"updated": "2026-03-01",
+			"downloadURL": "https://github.com/BaltaZar-7/StolenMeatMod/releases/download/v1.0.0/StolenMeatMod.dll",
+			"modURL": "https://github.com/BaltaZar-7/StolenMeatMod",
+			"description": "Meat outside gets stolen by predators, if not stored properly. If you leave a meat pile on your doorstep, you might attract a few unfriendly visitors too! Force you to stop building meat piles, or maybe use them to your advantage??",
+			"tags": "stolen,meat,despawn,left,outside,food,disappear,eaten,predator,scavanger",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"ModData"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "Check the Repo for more details!",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2-ci.2388"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/BaltaZar-7/StolenMeatMod/releases/download/v1.0.0/StolenMeatMod.dll"
+				]
+			},
+			"aliases": []
 		}
 	]
 }
-
-
