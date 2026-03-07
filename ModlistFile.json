@@ -433,7 +433,10 @@
 			"gameversion": [
 				"vanilla"
 			],
-			"images": [],
+			"images": [
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/HungerRevamped/hunger_bar_fill_levels.png",
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/HungerRevamped/hunger_and_stored_calories.png"
+			],
 			"dependencies": [
 				"ModSettings",
 				"ModData"
@@ -476,7 +479,10 @@
 			"gameversion": [
 				"vanilla"
 			],
-			"images": [],
+			"images": [
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/StolenMeatMod/SMthumbnail.jpg",
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/StolenMeatMod/SM2.jpg"
+			],
 			"dependencies": [
 				"ModSettings",
 				"ModData"
