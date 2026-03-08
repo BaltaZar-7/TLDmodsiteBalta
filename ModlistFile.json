@@ -332,7 +332,7 @@
 			"updated": "2026-02-15",
 			"downloadURL": "https://github.com/BaltaZar-7/AnimalRespawnTimeMod/releases/download/1.1.0/AnimalRespawnTimeMod.dll",
 			"modURL": "https://github.com/BaltaZar-7/AnimalRespawnTimeMod",
-			"description": "This mod makes animals' respawn time in hours adjustable in a Json file.",
+			"description": "This mod makes animals' respawn times adjustable in days through ModSettings.",
 			"tags": "animal,respawn,time,custom",
 			"categories": [
 				"Gameplay"
