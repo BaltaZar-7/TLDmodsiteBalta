@@ -120,6 +120,7 @@
 				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/RetrieveBulletsMod/305620_11.jpg"
 			],
 			"dependencies": [
+				"ModSettings",
 				"ModComponent",
 				"ModData"
 			],
@@ -548,6 +549,52 @@
 				"enable": true,
 				"downloads": [
 					"https://github.com/BaltaZar-7/BiggerTrappers/releases/download/1.0.0/BiggerTrappers.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "CougarBackpack",
+			"displayName": "Cougar Backpack",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-08-09",
+			"updated": "2026-08-09",
+			"downloadURL": "https://github.com/BaltaZar-7/CougarBackpack/releases/download/1.0.0/CougarBackpack.modcomponent",
+			"modURL": "https://github.com/BaltaZar-7/CougarBackpack",
+			"description": "A backpack made of Cougar. Upgrade to the Moose hide satchel.",
+			"tags": "satchel,backpack,clothing,gear,carry,accessory",
+			"categories": [
+				"Gear Items",
+				"Clothing"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/CougarBackpack/CougarBp1.jpg"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/BaltaZar-7/CougarBackpack/releases/download/1.0.0/CougarBackpack.modcomponent"
 				]
 			},
 			"aliases": []
