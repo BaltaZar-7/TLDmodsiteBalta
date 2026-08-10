@@ -555,14 +555,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"name": "CougarBackpack",
 			"displayName": "Cougar Backpack",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-08-09",
 			"updated": "2026-08-10",
-			"downloadURL": "https://github.com/BaltaZar-7/CougarBackpack/releases/download/1.0.1/CougarBackpack.modcomponent",
+			"downloadURL": "https://github.com/BaltaZar-7/CougarBackpack/releases/download/1.0.2/CougarBackpack.modcomponent",
 			"modURL": "https://github.com/BaltaZar-7/CougarBackpack",
 			"description": "A backpack made of Cougar. Upgrade to the Moose hide satchel.",
 			"tags": "satchel,backpack,clothing,gear,carry,accessory,carryweight",
@@ -594,7 +594,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/CougarBackpack/releases/download/1.0.1/CougarBackpack.modcomponent"
+					"https://github.com/BaltaZar-7/CougarBackpack/releases/download/1.0.2/CougarBackpack.modcomponent"
 				]
 			},
 			"aliases": []
