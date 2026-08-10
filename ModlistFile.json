@@ -555,17 +555,17 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"name": "CougarBackpack",
 			"displayName": "Cougar Backpack",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-08-09",
-			"updated": "2026-08-09",
-			"downloadURL": "https://github.com/BaltaZar-7/CougarBackpack/releases/download/1.0.0/CougarBackpack.modcomponent",
+			"updated": "2026-08-10",
+			"downloadURL": "https://github.com/BaltaZar-7/CougarBackpack/releases/download/1.0.1/CougarBackpack.modcomponent",
 			"modURL": "https://github.com/BaltaZar-7/CougarBackpack",
 			"description": "A backpack made of Cougar. Upgrade to the Moose hide satchel.",
-			"tags": "satchel,backpack,clothing,gear,carry,accessory",
+			"tags": "satchel,backpack,clothing,gear,carry,accessory,carryweight",
 			"categories": [
 				"Gear Items",
 				"Clothing"
@@ -583,7 +583,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "Fixed repairable ingredient\nMade harvestable behavior",
 				"notes": "",
 				"issues": ""
 			},
@@ -594,7 +594,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/CougarBackpack/releases/download/1.0.0/CougarBackpack.modcomponent"
+					"https://github.com/BaltaZar-7/CougarBackpack/releases/download/1.0.1/CougarBackpack.modcomponent"
 				]
 			},
 			"aliases": []
