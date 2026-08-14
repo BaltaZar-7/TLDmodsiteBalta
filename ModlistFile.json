@@ -417,14 +417,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.2.0",
+			"version": "2.2.1",
 			"name": "HungerRevamped",
 			"displayName": "Hunger Revamped",
 			"author": "BaltaZar, TLD modding community",
 			"previousAuthors": "BA, zeobviouslyfakeacc",
 			"released": "2018-03-31",
-			"updated": "2026-08-08",
-			"downloadURL": "https://github.com/BaltaZar-7/HungerRevamped/releases/download/2.2.0/HungerRevamped.dll",
+			"updated": "2026-08-14",
+			"downloadURL": "https://github.com/BaltaZar-7/HungerRevamped/releases/download/2.2.1/HungerRevamped.dll",
 			"modURL": "https://github.com/BaltaZar-7/HungerRevamped",
 			"description": "Improves the hunger system by separating hunger and stored calories. Adds customization options for various cooking such as enabling cooking ruined food.",
 			"tags": "hunger,revamped,calories,stored,store,fat,increase,food",
@@ -446,7 +446,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "- calorie reserves needs 80% full hunger bar to build bodyfat (from 60%)\n- max carrying capacity buff from Well fed is now customizable through ModSettings\n- optional Vitamin C level message after eating",
+				"patchnotes": "-Fixed bug first loading a save with the mod enabled resulting a modified calorie reserve\n-Fixed hunger level described with text badly on the Affliction panel - Added Peckish state",
 				"notes": "Check the Repo for more details!",
 				"issues": ""
 			},
@@ -457,7 +457,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/HungerRevamped/releases/download/2.2.0/HungerRevamped.dll"
+					"https://github.com/BaltaZar-7/HungerRevamped/releases/download/2.2.1/HungerRevamped.dll"
 				]
 			},
 			"aliases": []
