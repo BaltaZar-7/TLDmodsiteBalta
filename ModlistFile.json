@@ -94,14 +94,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.0",
+			"version": "1.2.0",
 			"name": "RetrieveBulletsMod",
 			"displayName": "Retrieve Bullets Mod",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-01-22",
-			"updated": "2026-01-22",
-			"downloadURL": "https://github.com/BaltaZar-7/RetrieveBulletsMod/releases/download/1.1.0/RetrieveBulletsMod.zip",
+			"updated": "2026-08-21",
+			"downloadURL": "https://github.com/BaltaZar-7/RetrieveBulletsMod/releases/download/1.2.0/RetrieveBulletsMod.zip",
 			"modURL": "https://github.com/BaltaZar-7/RetrieveBulletsMod",
 			"description": "This mod makes bullets retrievable from animals you killed with firearms.\nYou can harvest new items, called \"Damaged bullets\" from the carcasses and then reforge them at the ammunition workshop.",
 			"tags": "retrieve,bullet,damaged,gun,ammo,harvest",
@@ -114,10 +114,8 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/RetrieveBulletsMod/305620_9.jpg",
-				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/RetrieveBulletsMod/305620_10b.jpg",
-				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/RetrieveBulletsMod/305620_12.jpg",
-				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/RetrieveBulletsMod/305620_11.jpg"
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/RetrieveBulletsMod/ico_gearitem__damagedbullet3.png",
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/RetrieveBulletsMod/305620_9.jpg"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -127,7 +125,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "New icon and model\nChanged HUD message when harvest damaged bullets",
 				"notes": "Check the Repo for more details!",
 				"issues": ""
 			},
@@ -138,7 +136,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/RetrieveBulletsMod/releases/download/1.1.0/RetrieveBulletsMod.zip"
+					"https://github.com/BaltaZar-7/RetrieveBulletsMod/releases/download/1.2.0/RetrieveBulletsMod.zip"
 				]
 			},
 			"aliases": []
