@@ -125,7 +125,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "New icon and model\nChanged HUD message when harvest damaged bullets",
+				"patchnotes": "New icon and model\nChanged HUD message when harvesting damaged bullets",
 				"notes": "Check the Repo for more details!",
 				"issues": ""
 			},
