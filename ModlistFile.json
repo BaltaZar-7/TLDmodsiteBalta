@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.2.1",
+			"version": "1.2.2",
 			"name": "HotkeyMod",
 			"displayName": "Hotkey Mod",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-01-22",
-			"updated": "2026-02-01",
-			"downloadURL": "https://github.com/BaltaZar-7/HotkeyMod/releases/download/1.2.1/HotkeyMod.dll",
+			"updated": "2026-08-31",
+			"downloadURL": "https://github.com/BaltaZar-7/HotkeyMod/releases/download/1.2.2/HotkeyMod.dll",
 			"modURL": "https://github.com/BaltaZar-7/HotkeyMod",
 			"description": "Simple hotkey mod. When equiping firearms, guns with the most bullets in the magazine will be equiped (If in the json list). When equiping torches, the one item with the LEAST codition comes up. The basic rule after the above rules: first item in the list is going to be equiped. Clothes and accessories are supported too, and there is a toggle function implemented, so first tap equips specified clothing item, second tap switches back the original item if there was any. Check the Repo for more details!",
 			"tags": "hotkey,key,customize",
@@ -30,7 +30,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Fixed an issue with ruined torches getting selected first.",
+				"patchnotes": "Block when a Panel is opened",
 				"notes": "Check the Repo for more details!",
 				"issues": ""
 			},
@@ -41,7 +41,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/HotkeyMod/releases/download/1.2.1/HotkeyMod.dll"
+					"https://github.com/BaltaZar-7/HotkeyMod/releases/download/1.2.2/HotkeyMod.dll"
 				]
 			},
 			"aliases": []
@@ -367,14 +367,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.2",
+			"version": "1.2.0",
 			"name": "CatchColdMod",
 			"displayName": "Catch Cold Mod",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-02-21",
-			"updated": "2026-02-28",
-			"downloadURL": "https://github.com/BaltaZar-7/CatchColdMod/releases/download/1.1.2/CatchColdMod.dll",
+			"updated": "2026-08-31",
+			"downloadURL": "https://github.com/BaltaZar-7/CatchColdMod/releases/download/1.2.0/CatchColdMod.dll",
 			"modURL": "https://github.com/BaltaZar-7/CatchColdMod",
 			"description": "This mod adds a mechanic of catching a Cold affliction, developing a resistance or the cold worsens to Pneumonia.",
 			"tags": "affliction,cold,tea,freeze,catch,pneumonia",
@@ -397,7 +397,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "- new icons\n- when treating pneumonia, the damage will be less severe\n- overall a little less harsh pneumonia\n- fixed birch bark tea\n- added coughing when afflicted pneumonia\n- fix for cold risk not curing when fully depleted",
+				"patchnotes": "- hopefully fixed the bug with multiple notifications with cold risk\n- reducing (curing) cold risk is taking double time now, because it was too easy",
 				"notes": "Check the Repo for more details!",
 				"issues": ""
 			},
@@ -408,7 +408,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/CatchColdMod/releases/download/1.1.2/CatchColdMod.dll"
+					"https://github.com/BaltaZar-7/CatchColdMod/releases/download/1.2.0/CatchColdMod.dll"
 				]
 			},
 			"aliases": []
@@ -599,14 +599,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.1.0",
 			"name": "BaltaTweaks",
 			"displayName": "BaltaTweaks",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-08-28",
-			"updated": "2026-08-28",
-			"downloadURL": "https://github.com/BaltaZar-7/BaltaTweaks/releases/download/1.0.0/BaltaTweaks.dll",
+			"updated": "2026-08-31",
+			"downloadURL": "https://github.com/BaltaZar-7/BaltaTweaks/releases/download/1.1.0/BaltaTweaks.dll",
 			"modURL": "https://github.com/BaltaZar-7/BaltaTweaks",
 			"description": "Small tweaks made by BaltaZar.",
 			"tags": "tweaks,edit,small,door,auto,close,book,books,persistent,force",
@@ -623,7 +623,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "Added UI for Tip ups' condition, when in ice fishing panel (tip up selecttion)",
 				"notes": "",
 				"issues": ""
 			},
@@ -634,7 +634,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/BaltaTweaks/releases/download/1.0.0/BaltaTweaks.dll"
+					"https://github.com/BaltaZar-7/BaltaTweaks/releases/download/1.1.0/BaltaTweaks.dll"
 				]
 			},
 			"aliases": []
@@ -663,15 +663,55 @@
 			],
 			"dependencies": [
 				"ModSettings",
-				"ModComponent",
-				"Modders' Gear Toolbox",
-				"ExpandedTradingFramework"
+				"ModComponent"
 			],
 			"status": {
 				"working": true,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "Check the Repo readme for more details!",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "",
+				"mlversion": ""
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "MoreAccessorySlots",
+			"displayName": "More Accessory Slots",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-08-31",
+			"updated": "2026-08-31",
+			"downloadURL": "https://github.com/BaltaZar-7/MoreAccessorySlots/releases/download/1.0.0/MoreAccessorySlots.dll",
+			"modURL": "https://github.com/BaltaZar-7/MoreAccessorySlots",
+			"description": "Provides up to 2 extra accessory slots.",
+			"tags": "accessory,slots,extra,additional",
+			"categories": [
+				"Clothing"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/MoreAccessorySlots/MoreAccessorySlots.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
@@ -681,7 +721,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/BaltaTools/releases/download/1.0.0/BaltaTools.zip"
+					"https://github.com/BaltaZar-7/MoreAccessorySlots/releases/download/1.0.0/MoreAccessorySlots.dll"
 				]
 			},
 			"aliases": []
