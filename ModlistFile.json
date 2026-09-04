@@ -599,14 +599,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.2.1",
 			"name": "BaltaTweaks",
 			"displayName": "BaltaTweaks",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-08-28",
-			"updated": "2026-09-04",
-			"downloadURL": "https://github.com/BaltaZar-7/BaltaTweaks/releases/download/1.2.0/BaltaTweaks.dll",
+			"updated": "2026-09-05",
+			"downloadURL": "https://github.com/BaltaZar-7/BaltaTweaks/releases/download/1.2.1/BaltaTweaks.dll",
 			"modURL": "https://github.com/BaltaZar-7/BaltaTweaks",
 			"description": "Small tweaks made by BaltaZar.",
 			"tags": "tweaks,edit,small,door,auto,close,book,books,persistent,force",
@@ -634,21 +634,21 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/BaltaTweaks/releases/download/1.2.0/BaltaTweaks.dll"
+					"https://github.com/BaltaZar-7/BaltaTweaks/releases/download/1.2.1/BaltaTweaks.dll"
 				]
 			},
 			"aliases": []
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"name": "BaltaTools",
 			"displayName": "BaltaTools",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-08-28",
-			"updated": "2026-09-04",
-			"downloadURL": "https://github.com/BaltaZar-7/BaltaTools/releases/download/1.0.1/BaltaTools.zip",
+			"updated": "2026-09-05",
+			"downloadURL": "https://github.com/BaltaZar-7/BaltaTools/releases/download/1.0.2/BaltaTools.zip",
 			"modURL": "https://github.com/BaltaZar-7/BaltaTools",
 			"description": "Adds a couple tools to the game.",
 			"tags": "tool,tools,hatchet,axe,feather,down,plucker,survival,prybar,improvised,cleaningkit,repair,forge",
@@ -681,7 +681,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/BaltaTools/releases/download/1.0.1/BaltaTools.zip"
+					"https://github.com/BaltaZar-7/BaltaTools/releases/download/1.0.2/BaltaTools.zip"
 				]
 			},
 			"aliases": []
