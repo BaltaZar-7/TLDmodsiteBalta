@@ -323,17 +323,17 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.3.0",
 			"name": "AnimalRespawnTimeMod",
 			"displayName": "Animal Respawn Time Mod",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-02-08",
-			"updated": "2026-08-08",
-			"downloadURL": "https://github.com/BaltaZar-7/AnimalRespawnTimeMod/releases/download/1.2.0/AnimalRespawnTimeMod.dll",
+			"updated": "2026-09-05",
+			"downloadURL": "https://github.com/BaltaZar-7/AnimalRespawnTimeMod/releases/download/1.3.0/AnimalRespawnTimeMod.dll",
 			"modURL": "https://github.com/BaltaZar-7/AnimalRespawnTimeMod",
 			"description": "This mod makes animals' respawn times adjustable in days through ModSettings.",
-			"tags": "animal,respawn,time,custom",
+			"tags": "animal,respawn,time,custom,EAF,expanded,extended",
 			"categories": [
 				"Gameplay"
 			],
@@ -349,7 +349,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Now compatible with Expanded AI Framework (EAF)",
+				"patchnotes": "Fixed the whole mod. It was not working properly.\nEAF will soon have an update, then the two mods will be compatible!",
 				"notes": "",
 				"issues": ""
 			},
@@ -360,7 +360,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/AnimalRespawnTimeMod/releases/download/1.2.0/AnimalRespawnTimeMod.dll"
+					"https://github.com/BaltaZar-7/AnimalRespawnTimeMod/releases/download/1.3.0/AnimalRespawnTimeMod.dll"
 				]
 			},
 			"aliases": []
@@ -664,69 +664,22 @@
 			"dependencies": [
 				"ModSettings",
 				"ModComponent",
-				"ExpandedTradingFramework",
-				"Modders' Gear Toolbox"
+				"ExpandedTradingFramework"
 			],
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Added custom items to the toolbelt accepted items (except splitting axe)",
-				"notes": "Check the Readme for more details!",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.55",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/BaltaZar-7/BaltaTools/releases/download/1.0.2/BaltaTools.zip"
-				]
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "1.0.1",
-			"name": "MoreAccessorySlots",
-			"displayName": "More Accessory Slots",
-			"author": "",
-			"previousAuthors": "",
-			"released": "2026-08-31",
-			"updated": "2026-09-04",
-			"downloadURL": "https://github.com/BaltaZar-7/MoreAccessorySlots/releases/download/1.0.1/MoreAccessorySlots.dll",
-			"modURL": "https://github.com/BaltaZar-7/MoreAccessorySlots",
-			"description": "Provides up to 2 extra accessory slots.",
-			"tags": "accessory,slots,extra,additional",
-			"categories": [
-				"Clothing"
-			],
-			"gameversion": [
-				"vanilla"
-			],
-			"images": [
-				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/MoreAccessorySlots/MoreAccessorySlots.jpg"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "Russian localization",
+				"patchnotes": "",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
-				"mlversion": "0.7.2"
+				"tldversion": "",
+				"mlversion": ""
 			},
 			"updater": {
 				"enable": true,
-				"downloads": [
-					"https://github.com/BaltaZar-7/MoreAccessorySlots/releases/download/1.0.1/MoreAccessorySlots.dll"
-				]
+				"downloads": []
 			},
 			"aliases": []
 		}
