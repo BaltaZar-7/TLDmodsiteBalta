@@ -664,22 +664,70 @@
 			"dependencies": [
 				"ModSettings",
 				"ModComponent",
-				"ExpandedTradingFramework"
+				"ExpandedTradingFramework",
+				"modders'geartoolbox"
 			],
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "Fix for toolbelt",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "",
-				"mlversion": ""
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
-				"downloads": []
+				"downloads": [
+					"https://github.com/BaltaZar-7/BaltaTools/releases/download/1.0.2/BaltaTools.zip"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.1",
+			"name": "MoreAccessorySlots",
+			"displayName": "More Accessory Slots",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-08-31",
+			"updated": "2026-09-04",
+			"downloadURL": "https://github.com/BaltaZar-7/MoreAccessorySlots/releases/download/1.0.1/MoreAccessorySlots.dll",
+			"modURL": "https://github.com/BaltaZar-7/MoreAccessorySlots",
+			"description": "Provides up to 2 extra accessory slots.\nThe most right one considered the most outer layer, so that is taking the damage from struggles.",
+			"tags": "accessory,accessories,slot,slots,more,increase,clothing",
+			"categories": [
+				"Gameplay",
+				"Clothing"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/refs/heads/main/MoreAccessorySlots/MoreAccessorySlots.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Russian Localization",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/BaltaZar-7/MoreAccessorySlots/releases/download/1.0.1/MoreAccessorySlots.dll"
+				]
 			},
 			"aliases": []
 		}
