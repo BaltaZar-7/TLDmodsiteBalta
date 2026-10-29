@@ -347,7 +347,7 @@
 				"ModSettings"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "Fixed the whole mod. It was not working properly.\nEAF will soon have an update, then the two mods will be compatible!",
 				"notes": "",
