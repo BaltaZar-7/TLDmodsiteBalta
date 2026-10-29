@@ -641,14 +641,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "1.1.0",
 			"name": "BaltaTools",
 			"displayName": "BaltaTools",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-08-28",
-			"updated": "2026-09-05",
-			"downloadURL": "https://github.com/BaltaZar-7/BaltaTools/releases/download/1.0.2/BaltaTools.zip",
+			"updated": "2026-10-29",
+			"downloadURL": "https://github.com/BaltaZar-7/BaltaTools/releases/download/1.1.0/BaltaTools.zip",
 			"modURL": "https://github.com/BaltaZar-7/BaltaTools",
 			"description": "Adds a couple tools to the game.",
 			"tags": "tool,tools,hatchet,axe,feather,down,plucker,survival,prybar,improvised,cleaningkit,repair,forge",
@@ -670,7 +670,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Fix for toolbelt",
+				"patchnotes": "Added compatibility for opening inventory from other panels/radial",
 				"notes": "",
 				"issues": ""
 			},
@@ -681,7 +681,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/BaltaTools/releases/download/1.0.2/BaltaTools.zip"
+					"https://github.com/BaltaZar-7/BaltaTools/releases/download/1.1.0/BaltaTools.zip"
 				]
 			},
 			"aliases": []
