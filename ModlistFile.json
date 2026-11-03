@@ -35,7 +35,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -81,7 +81,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -130,7 +130,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -174,7 +174,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -219,7 +219,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -265,7 +265,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -308,7 +308,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -354,7 +354,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -402,7 +402,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -415,14 +415,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.2.1",
+			"version": "2.2.2",
 			"name": "HungerRevamped",
 			"displayName": "Hunger Revamped",
 			"author": "BaltaZar, TLD modding community",
 			"previousAuthors": "BA, zeobviouslyfakeacc",
 			"released": "2018-03-31",
-			"updated": "2026-08-14",
-			"downloadURL": "https://github.com/BaltaZar-7/HungerRevamped/releases/download/2.2.1/HungerRevamped.dll",
+			"updated": "2026-11-03",
+			"downloadURL": "https://github.com/BaltaZar-7/HungerRevamped/releases/download/2.2.2/HungerRevamped.dll",
 			"modURL": "https://github.com/BaltaZar-7/HungerRevamped",
 			"description": "Improves the hunger system by separating hunger and stored calories. Adds customization options for various cooking such as enabling cooking ruined food.",
 			"tags": "hunger,revamped,calories,stored,store,fat,increase,food",
@@ -444,18 +444,18 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "-Fixed bug first loading a save with the mod enabled resulting a modified calorie reserve\n-Fixed hunger level described with text badly on the Affliction panel - Added Peckish state",
+				"patchnotes": "Fixed Starvation Damage",
 				"notes": "Check the Repo for more details!",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/HungerRevamped/releases/download/2.2.1/HungerRevamped.dll"
+					"https://github.com/BaltaZar-7/HungerRevamped/releases/download/2.2.2/HungerRevamped.dll"
 				]
 			},
 			"aliases": []
@@ -495,7 +495,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -540,7 +540,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -586,7 +586,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -628,7 +628,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -675,7 +675,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -720,7 +720,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
