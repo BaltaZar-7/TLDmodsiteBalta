@@ -323,14 +323,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.4.0",
+			"version": "1.4.1",
 			"name": "AnimalRespawnTimeMod",
 			"displayName": "Animal Respawn Time Mod",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-02-08",
-			"updated": "2026-10-29",
-			"downloadURL": "https://github.com/BaltaZar-7/AnimalRespawnTimeMod/releases/download/1.4.0/AnimalRespawnTimeMod.dll",
+			"updated": "2026-11-21",
+			"downloadURL": "https://github.com/BaltaZar-7/AnimalRespawnTimeMod/releases/download/1.4.1/AnimalRespawnTimeMod.dll",
 			"modURL": "https://github.com/BaltaZar-7/AnimalRespawnTimeMod",
 			"description": "This mod makes animals' respawn times adjustable in days through ModSettings.",
 			"tags": "animal,respawn,time,custom,EAF,expanded,extended",
@@ -349,18 +349,18 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Updated to TLD v2.58",
+				"patchnotes": "Compatible with EAF",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.59",
+				"tldversion": "2.60",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/BaltaZar-7/AnimalRespawnTimeMod/releases/download/1.4.0/AnimalRespawnTimeMod.dll"
+					"https://github.com/BaltaZar-7/AnimalRespawnTimeMod/releases/download/1.4.1/AnimalRespawnTimeMod.dll"
 				]
 			},
 			"aliases": []
